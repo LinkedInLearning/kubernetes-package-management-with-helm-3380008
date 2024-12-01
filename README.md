@@ -3,7 +3,7 @@ This is the repository for the LinkedIn Learning course Kubernetes: Package Mana
 
 ## Instructions
 
-This repository does not have any branches, and each folder corresponds with a movie. The naming convention is `CHAPTER#_MOVIE#`. As an example, the folder named `02_03` corresponds to the second chapter and the third video in that chapter.
+This repository does not have any branches, and each folder corresponds with a movie. The naming convention is `CHAPTER#_MOVIE#`. As an example, the folder named `02_03` corresponds to the second chapter and the third video in that chapter. If a file is changed in a video, you will see two different files in the folder: one with `_begin` in the name, and one with `_end`. These files show you the file as it is as the beginning of the video, and the file state when the video ends. 
 
 
 ## Installing
