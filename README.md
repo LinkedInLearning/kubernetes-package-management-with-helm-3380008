@@ -3,9 +3,7 @@ This is the repository for the LinkedIn Learning course Kubernetes: Package Mana
 
 ## Instructions
 
-This repository does not have any branches. Download the entire repository and you get the exercise files in their final state.
-
-Each folder corresponds with a movie with an exercise file. The naming convention is `CHAPTER#_MOVIE#`. As an example, the folder named `02_03` corresponds to the second chapter and the third video in that chapter.
+This repository does not have any branches, and each folder corresponds with a movie. The naming convention is `CHAPTER#_MOVIE#`. As an example, the folder named `02_03` corresponds to the second chapter and the third video in that chapter.
 
 
 ## Installing
